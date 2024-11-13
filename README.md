@@ -12,14 +12,16 @@
 
 🌈 **팀원 소개**
 
-| 팀원   | 역할                            |
+총 6명
+
+<!-- | 팀원   | 역할                            |
 | ------ | ------------------------------- |
 | 김혁일 | 팀장, BE 리드, Infra(CI/CD), DB |
 | 김재훈 | BE, 크롤링, DB, 서기            |
 | 문신웅 | FE, 디자인, ,스크럼 마스터      |
 | 박희찬 | AI, 크롤링, DB                  |
 | 전재완 | BE, DB, 발표, Jira 담당자       |
-| 정유나 | FE 리드, 디자인                 |
+| 정유나 | FE 리드, 디자인                 | -->
 
 ## 2️⃣ 주요 기능
 
@@ -114,7 +116,7 @@
 - 소셜 로그인
 - 초기 회원가입 시 사용자 목소리를 입력받은 후 사용자 음성 분석
 
-    <img src='assets/1.gif' width="300">
+    <!-- <img src='assets/1.gif' width="300"> -->
 
 ---
 
@@ -148,7 +150,7 @@
 - 노래검색
 - 듀엣 모드를 위한 사용자 검색
 
-    <img src='assets/5.gif' width="300">
+    <!-- <img src='assets/5.gif' width="300"> -->
 
 ---
 
@@ -160,7 +162,7 @@
 - 노래 녹음 및 영상 녹화
 - 릴스 추가 가능
 
-    <img src='assets/6.gif' width="300">
+    <!-- <img src='assets/6.gif' width="300"> -->
 
 ---
 
@@ -170,7 +172,7 @@
 - 사용자가 부른 노래 조회 가능
 - 사용자 제작 릴스 조회 가능
 
-    <img src='assets/7.gif' width="300">
+    <!-- <img src='assets/7.gif' width="300"> -->
 
 ---
 
@@ -178,7 +180,7 @@
 
 - 사용자가 부른 후 저장된 영상으로 릴스 등록 가능
 
-    <img src='assets/8.gif' width="300">
+    <!-- <img src='assets/8.gif' width="300"> -->
 
 ---
 
@@ -186,11 +188,11 @@
 
 - 다른 사용자의 릴스 조회 가능
 
-    <img src='assets/9.gif' width="300">
+    <!-- <img src='assets/9.gif' width="300"> -->
 
 ## 6️⃣ 산출물
 
-- ### [API 명세서(Notion)](https://spark-pudding-194.notion.site/API-3c265388d59c417aa08ca0b19c162809?pvs=4)
+<!-- - ### [API 명세서(Notion)](https://spark-pudding-194.notion.site/API-3c265388d59c417aa08ca0b19c162809?pvs=4) -->
 
 - ### 아키텍쳐
 <img src='assets/아키텍처.png' width="800px">
